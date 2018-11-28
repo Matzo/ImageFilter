@@ -18,6 +18,8 @@
 		F756DC2621907F1B00D5CDBF /* Aurora.acv in Resources */ = {isa = PBXBuildFile; fileRef = F756DC2521907F1B00D5CDBF /* Aurora.acv */; };
 		F756DC282190808700D5CDBF /* Ice.acv in Resources */ = {isa = PBXBuildFile; fileRef = F756DC272190808700D5CDBF /* Ice.acv */; };
 		F756DC2A2190875500D5CDBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F756DC292190875500D5CDBF /* Assets.xcassets */; };
+		F756DC2D21908D7B00D5CDBF /* ocean.acv in Resources */ = {isa = PBXBuildFile; fileRef = F756DC2B21908D7B00D5CDBF /* ocean.acv */; };
+		F756DC2E21908D7B00D5CDBF /* sunset.acv in Resources */ = {isa = PBXBuildFile; fileRef = F756DC2C21908D7B00D5CDBF /* sunset.acv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		F756DC2521907F1B00D5CDBF /* Aurora.acv */ = {isa = PBXFileReference; lastKnownFileType = file; path = Aurora.acv; sourceTree = "<group>"; };
 		F756DC272190808700D5CDBF /* Ice.acv */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ice.acv; sourceTree = "<group>"; };
 		F756DC292190875500D5CDBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F756DC2B21908D7B00D5CDBF /* ocean.acv */ = {isa = PBXFileReference; lastKnownFileType = file; path = ocean.acv; sourceTree = "<group>"; };
+		F756DC2C21908D7B00D5CDBF /* sunset.acv */ = {isa = PBXFileReference; lastKnownFileType = file; path = sunset.acv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +54,8 @@
 		E0044C7721367A9200EB054A /* ToneCurve */ = {
 			isa = PBXGroup;
 			children = (
+				F756DC2B21908D7B00D5CDBF /* ocean.acv */,
+				F756DC2C21908D7B00D5CDBF /* sunset.acv */,
 				F756DC272190808700D5CDBF /* Ice.acv */,
 				F756DC2521907F1B00D5CDBF /* Aurora.acv */,
 				F74D727A218DA0D9003A045C /* GoldenHour.acv */,
@@ -152,6 +158,8 @@
 				E074ADC92124249000D2D88B /* LaunchScreen.storyboard in Resources */,
 				F74D727B218DA0D9003A045C /* GoldenHour.acv in Resources */,
 				F756DC282190808700D5CDBF /* Ice.acv in Resources */,
+				F756DC2E21908D7B00D5CDBF /* sunset.acv in Resources */,
+				F756DC2D21908D7B00D5CDBF /* ocean.acv in Resources */,
 				F756DC2A2190875500D5CDBF /* Assets.xcassets in Resources */,
 				E074ADC42124248C00D2D88B /* Main.storyboard in Resources */,
 			);
